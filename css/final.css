@@ -1,0 +1,125 @@
+*{ font-family: 'Abel', sans-serif; }
+
+.navbar {
+	background: #8d97a8;
+}
+
+.masthead-name {
+}
+
+a.nav-link {
+	color: white;
+}
+
+.header-nav {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.cover-section {
+	text-align: center;
+	height: 100vh;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.cover-name {
+	padding-top: 10px;
+}
+
+.cover-para {
+	margin-bottom: 0px;
+}
+
+.title {
+	background: rgba(108, 120, 150, 0.65);
+	margin-top: 200px;
+	border-style: solid;
+	color: white;
+}
+
+.social-button {
+	color: white;
+	font-size: 2.25rem;
+}
+
+.fb-gram-button {
+	color: dimgray;
+	font-size: 2.25rem;
+}
+
+.resume-link {
+	color: dimgray;
+}
+
+.portfolio-title {
+	width: 100%;
+	text-align: center;
+	color: #6c7896;
+	margin-top: 10px;
+}
+
+.light-bg {
+	background-color: #d8dcec;
+}
+
+.project-divider {
+	border-color: #6c7896;
+	border-top-width: 2px;
+}
+
+.project {
+	text-align: center;
+}
+
+.project-link img:hover {
+	opacity: 0.5;
+}
+
+.prof-photo {
+	text-align: center;
+}
+
+.about-main {
+	padding-top: 50px;
+	height: 100vh;
+	color: dimgray;
+	background-image: url("../img/profilepicture.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+}
+
+.about-me {
+	text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.contact-main {
+	padding-top: 50px;
+	height: 100vh;
+	color: white;
+	background-image: url("../img/contactme.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#form-submit {
+	background-color: #6c7896;
+	border-color: #6c7896;
+}
+
+.footer-author {
+	height: 25px;
+	width: 100%;
+	background-color: #6c7896;
+	color: white;
+}
+
