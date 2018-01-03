@@ -46,12 +46,12 @@ a.nav-link {
 }
 
 .fb-gram-button {
-	color: dimgray;
+	color: black;
 	font-size: 2.25rem;
 }
 
 .resume-link {
-	color: dimgray;
+	color: black;
 }
 
 .portfolio-title {
@@ -78,20 +78,24 @@ a.nav-link {
 	opacity: 0.5;
 }
 
-.prof-photo {
-	text-align: center;
-}
-
 .about-main {
-	padding-top: 50px;
 	height: 100vh;
-	color: dimgray;
-	background-color: #dee5ef;
-}
+	background-image: url("../img/profilepicture.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
-.about-me {
+.about-text {
+	padding-top: 25vh;
 	text-align: center;
+	color: black;
+}
+
+.about-links {
+	padding-top: 25vh;
+	text-align: center;
+	color: black;
 }
 
 ul {
